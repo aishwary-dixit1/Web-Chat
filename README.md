@@ -1,7 +1,8 @@
 # **Web Chat** 💬🚀  
 A **real-time messaging web app** for instant and seamless communication. Stay connected with friends, colleagues, or communities through fast, secure, and interactive messaging.  
 
-![Web Chat Preview](https://via.placeholder.com/800x400.png?text=Project+Preview)  
+🌍 **Live Demo:** [Web Chat](https://web-chat-4a1l.onrender.com) *(Deployed on Render)*
+
 
 ---
 
@@ -26,12 +27,12 @@ A **real-time messaging web app** for instant and seamless communication. Stay c
 ## **🛠 Tech Stack**  
 | **Technology**  | **Usage** |
 |---------------|----------|
-| **Frontend**  | React / Vue / Next.js |
+| **Frontend**  | React |
 | **Backend**   | Node.js / Express |
-| **Database**  | MongoDB / Firebase / PostgreSQL |
+| **Database**  | MongoDB |
 | **WebSockets** | Socket.io for real-time updates |
-| **Authentication** | JWT / OAuth |
-| **Styling** | Tailwind CSS / Material-UI |
+| **Authentication** | JWT |
+| **Styling** | Tailwind CSS / Daisy UI |
 
 ---
 
@@ -66,6 +67,22 @@ npm run start
 ---
 
 ## **🖥️ Screenshots**
+
+#### Chat Page
+![Screenshot 2025-03-16 153227](https://github.com/user-attachments/assets/7e137484-7a5c-413d-872a-c4574c51c51f)
+
+#### Profile Page
+![Screenshot 2025-03-16 153405](https://github.com/user-attachments/assets/8b8a1511-1d5a-4a95-b934-2812083733ac)
+
+#### Settings Page
+![Screenshot 2025-03-16 153426](https://github.com/user-attachments/assets/965aa888-1814-4429-9d4a-c53bced45680)
+
+#### Login Page
+![image](https://github.com/user-attachments/assets/7a38454c-a914-42e1-bd04-ad6ce995e7df)
+
+#### Signup Page
+![image](https://github.com/user-attachments/assets/2e7c9457-4c78-40b4-abcc-408644797dc5)
+
 
 
 
