@@ -2,7 +2,6 @@
 A **real-time messaging web app** for instant and seamless communication. Stay connected with friends, colleagues, or communities through fast, secure, and interactive messaging.  
 
 ![Web Chat Preview](https://via.placeholder.com/800x400.png?text=Project+Preview)  
-*(Replace with an actual screenshot of your app)*  
 
 ---
 
